@@ -11,7 +11,7 @@ email: me@ycmjason.com
 description: > # this means to ignore newlines until "baseurl:"
   Jason Yu is a passionate real-life problem solver and musician.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.ycmjason.com" # the base hostname & protocol for your site
+url: "http://www.ycmjason.com/blog" # the base hostname & protocol for your site
 github_username:  ycmjason
 facebook_username: ycmjason
 twitter_username: ycmjason
